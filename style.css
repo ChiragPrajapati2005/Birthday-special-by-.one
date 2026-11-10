@@ -517,6 +517,11 @@ footer {
     }
 }
 
+.message-box pre{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 10px;
+}
+
 /* RED SCREEN FLASH */
 
 .red-flash {
@@ -732,6 +737,8 @@ body.raone-mode .villain-img {
     30% { opacity: 1; }
     100% { opacity: 0; }
 }
+
+
 
 /* MOBILE */
 
